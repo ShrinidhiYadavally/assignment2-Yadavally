@@ -33,3 +33,15 @@ most recommended cities are:
 |Michigan|Mackinac Island|5 hours|
 |Chicago|Navy Pier|4 hours|
 |California|Disneyland Park|3 hours|
+
+***
+# Quotes
+> A Ship is always safe at shore but that is not what it's built for. 
+
+-*Albert Eienstein*
+
+>Everyday brings new choices.
+
+-*Martha Beck*
+
+
