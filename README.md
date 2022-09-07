@@ -23,3 +23,13 @@ The Museum of Modern Art is an art museum located in Midtown Manhattan, New York
 
 
 [About Me](./AboutMe.md)
+
+*** 
+# Cities to visit
+most recommended cities are:
+|name|locations|time|
+|---|---|---|
+|Newyork|Coney Island|6 hours|
+|Michigan|Mackinac Island|5 hours|
+|Chicago|Navy Pier|4 hours|
+|California|Disneyland Park|3 hours|
