@@ -8,9 +8,16 @@ The Museum of Modern Art is an art museum located in Midtown Manhattan, New York
 
 ***
 # Directions to The Museum Of Modern Art
-1. New York Skyports Seaplane Base airport
-2. public transit for 1mile
-3. Book a cab 
-4. The Museum Of Modern Art
+1. New York Skyports Seaplane Base airport.
+2. public transit for 1mile.
+3. Book a cab. 
+4. The Museum Of Modern Art.
+
+# Places around the Museum
+* Central Park.
+* Empire State Building.
+* Top of the Rock.
+* Statue of Liberty.
+* Brooklyn Bridge.
 
 
